@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: pddcode@gmail.com
 description: "Every failure is leading towards success."
 keyword: "PDD, PDD Blog, 冬冬的博客, pddcode, 潘冬冬, iOS, Apple, iPhone"
-url: "http://pddcode.github.io"          # your host, for absolute URL
+url: "https://pddcode.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/pddcode/pddcode.github.io.git" # you code repository
 
